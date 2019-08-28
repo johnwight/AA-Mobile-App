@@ -45,17 +45,17 @@ To build a list of Scorecards you can access on your mobile device:
 
 1. Open the app and login with your organization credentials. 
 
-![login](https://user-images.githubusercontent.com/29133525/63822682-5ab44700-c90e-11e9-8f1f-1eacfb91fe98.png)
+  ![login](https://user-images.githubusercontent.com/29133525/63822682-5ab44700-c90e-11e9-8f1f-1eacfb91fe98.png)
 
 1. View your list of scorecards. An example list follows:
 
-![Score card list](https://user-images.githubusercontent.com/29133525/63822752-9b13c500-c90e-11e9-8f66-c635b5b7c6aa.png)
+  ![Score card list](https://user-images.githubusercontent.com/29133525/63822752-9b13c500-c90e-11e9-8f66-c635b5b7c6aa.png)
 
-1. From the list, choose the scorecard to view by tapping it. For example, in this list, you might tap the **Key Metrics** Scorecard.
+2. From the list, choose the scorecard to view by tapping it. For example, in this list, you might tap the **Key Metrics** Scorecard.
 
 img
 
-1. Tap a tile to view a report. For example, the report for the **Revenues** metric follows:
+3. Tap a tile to view a report. For example, the report for the **Revenues** metric follows:
 
 img
 
