@@ -49,7 +49,7 @@ To build a list of Scorecards you can access on your mobile device:
 
 1. View your list of scorecards. An example list follows:
 
-img
+![Score card list](https://user-images.githubusercontent.com/29133525/63822752-9b13c500-c90e-11e9-8f66-c635b5b7c6aa.png)
 
 1. From the list, choose the scorecard to view by tapping it. For example, in this list, you might tap the **Key Metrics** Scorecard.
 
