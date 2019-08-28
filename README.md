@@ -10,11 +10,9 @@ The Adobe Analytics Mobile App provides meaningful data visualizations on mobile
 
 ![Key Metrics Score Card](https://user-images.githubusercontent.com/29133525/63822300-29874700-c90d-11e9-8c20-985a8a8c2d74.png)
 
-
-
 ## Reports
 
-img
+![Visits report](https://user-images.githubusercontent.com/29133525/63822427-83880c80-c90d-11e9-90a4-816d56ec1408.png)
 
 ## Download the App
 
