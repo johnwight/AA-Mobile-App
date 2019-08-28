@@ -33,7 +33,7 @@ To build a list of Scorecards you can access on your mobile device:
 
 1. Open Adobe Analytics and click the **Workspace** tab.
 1. Click the **Create New Project** button and select the **Mobile App** project template.
-1. Specify a title, date ranges, and then drag and drop components to the Scorecard. Each component appears as a tile on the layout. Follow the same steps in building the Scorecard that you would use for creating a [project in Analysis Workspace] (https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/t-freeform-project.html).
+1. Specify a title, date ranges, and then drag and drop components to the Scorecard. Each component appears as a tile on the layout. Follow the same steps in building the Scorecard that you would use for creating a [project in Analysis Workspace](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/t-freeform-project.html).
 
 img
 
