@@ -43,9 +43,9 @@ To build a list of Scorecards you can access on your mobile device:
 
 ## Use the App
 
-1. Log into the app. Open the app and login with your organization credentials. 
+1. Open the app and login with your organization credentials. 
 
-img
+![login](https://user-images.githubusercontent.com/29133525/63822682-5ab44700-c90e-11e9-8f1f-1eacfb91fe98.png)
 
 1. View your list of scorecards. An example list follows:
 
