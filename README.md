@@ -70,6 +70,9 @@ To configure settings for the app, tap the Settings icon to do the following:
 * Send feedback.
 * View the app version.
 
+![Settings screen](https://user-images.githubusercontent.com/29133525/63823250-61dc5480-c910-11e9-9acc-2dca33521acf.png)
+
+
 
 
 
