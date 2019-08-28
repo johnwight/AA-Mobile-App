@@ -35,9 +35,10 @@ To build a list of Scorecards you can access on your mobile device:
 1. Click the **Create New Project** button and select the **Mobile App** project template.
 1. Specify a title, date ranges, and then drag and drop components to the Scorecard. Each component appears as a tile on the layout. Follow the same steps in building the Scorecard that you would use for creating a [project in Analysis Workspace](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/t-freeform-project.html).
 
-img
+![ExecutiveViewBuilder](https://user-images.githubusercontent.com/29133525/63822602-20e34080-c90e-11e9-9174-70f0dfe979fc.png)
 
-1. Save the Scorecard and repeat the process for each new Scorecard that you want to add to your list.
+
+4. Save the Scorecard and repeat the process for each new Scorecard that you want to add to your list.
 
 
 ## Use the App
