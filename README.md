@@ -56,7 +56,7 @@ To build a list of Scorecards you can access on your mobile device:
 ![Key Metrics Score Card](https://user-images.githubusercontent.com/29133525/63822300-29874700-c90d-11e9-8c20-985a8a8c2d74.png)
 
 
-4. To view the report for a Scorecard, tap its tile. The following shows an example report for the **Revenues** metric:
+4. To view the report associated with a tile, tap it. The following shows an example report for the **Revenues** metric:
 
 ![Revenue Details](https://user-images.githubusercontent.com/29133525/63823123-f8f4dc80-c90f-11e9-8c46-f09d1023bb35.png)
 
