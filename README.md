@@ -8,7 +8,9 @@ The Adobe Analytics Mobile App provides meaningful data visualizations on mobile
 
 ## Scorecard tiles
 
-![overview screen](https://user-images.githubusercontent.com/29133525/63822210-e036f780-c90c-11e9-98c2-efef8bed7a4b.png)
+![Key Metrics Score Card](https://user-images.githubusercontent.com/29133525/63822300-29874700-c90d-11e9-8c20-985a8a8c2d74.png)
+
+
 
 ## Reports
 
@@ -74,6 +76,7 @@ img
 
 
 
+![overview screen](https://user-images.githubusercontent.com/29133525/63822210-e036f780-c90c-11e9-98c2-efef8bed7a4b.png)
 
 
 
