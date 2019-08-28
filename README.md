@@ -58,8 +58,7 @@ To build a list of Scorecards you can access on your mobile device:
 
 4. To view the report for a Scorecard, tap the Scorecard tile. The following shows an example report for the **Revenues** metric:
 
-img
-
+![Revenue Details](https://user-images.githubusercontent.com/29133525/63823123-f8f4dc80-c90f-11e9-8c46-f09d1023bb35.png)
 
 ## Configure settings
 
